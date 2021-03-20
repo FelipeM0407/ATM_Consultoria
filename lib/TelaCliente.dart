@@ -51,6 +51,5 @@ class _TelaClienteState extends State<TelaCliente> {
         ),
       ),
     );
-    ;
   }
 }
